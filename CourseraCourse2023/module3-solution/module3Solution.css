@@ -1,23 +1,17 @@
-body {
-    margin: 45px;
-}
 
 .menu {
     border: solid ;
     background-color:#DCDCDC;
-    margin:15px 0 15px 0;
+    /* margin:15px 0 45px 0; */
 }
 
+
 h2 {
-    color:red
+    color:red;
 }
 
 #topOfMenu {
     margin:15px 0 15px 0;
-}
-
-.bg-1 {
-    background-color: pink;
 }
 
 nav.navbar {
